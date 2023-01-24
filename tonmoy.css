@@ -1,7 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+ }
+
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+
 /*header*/
-.logo img{
-    margin-top: 59px;
+.navigation{
+
+}
+.gap-area{
+    
 }
 .container-batton button{
     background-color: chocolate;
+}
+
+/*second section*/
+.secound-section{
+    
+}
+.container-bacground{
+   margin-left:2%;
+    height: 550px;
+    width: 1170px;
+    background-image:url(banner.png) ;
+    background-size: cover;
+}
+.secound-section-text{
+    padding-top: 60px;
+   text-align: center;
 }

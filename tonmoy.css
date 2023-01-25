@@ -35,3 +35,19 @@
     padding-top: 60px;
    text-align: center;
 }
+
+/* third section */
+.container-third img {
+height: 25%;
+width: 20%;
+margin-left: 40%;
+margin-top:20px ;
+
+}
+
+.container-third h5 {
+    text-align: center;
+}
+.container-third p {
+    text-align: center;
+}
